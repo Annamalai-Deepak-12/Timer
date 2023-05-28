@@ -31,7 +31,7 @@ function Timer() {
       }}
     >
       <div className=" ">
-        <h1>HAPPY NEW YEAR IN 2024</h1>
+        <h1>HAPPY NEW YEAR 2024 IN </h1>
         <div className=" d-flex flex-row shadow rounded">
           
           <div
