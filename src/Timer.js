@@ -19,7 +19,7 @@ function Timer() {
 
   useEffect(() => {
     const interval = setInterval(() => getTime(deadline), 1000);
-  });
+  },[]);
   return (
     <div
       className="d-flex justify-content-center align-items-center"
